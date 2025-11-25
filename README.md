@@ -173,11 +173,11 @@ function getFilmCount() public view returns (uint256)
 ## 📸 Screenshots
 
 ### Main Interface - Film Collection
-![Cinema Chain Main Interface](screenshots\Main_interface.png)
+![Cinema Chain Main Interface](screenshots/Main_interface.png)
 *The main dashboard showing film collection with ratings, reviews, and statistics*
 
 ### Add Film Form
-![Add Film Form](screenshots\Cinema_stored.png)
+![Add Film Form](screenshots/Cinema_stored.png)
 *Interactive form with star rating system and review input*
 
 ## 🛠️ Technologies Used
@@ -286,5 +286,6 @@ Contributions, issues, and feature requests are welcome!
 Built with ❤️ using React, Solidity, and Web3 | Track your cinematic journey on the blockchain! 🎬
 
 ---
+
 
 
